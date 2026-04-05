@@ -61,13 +61,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dineshkumar-mb&theme=radical&hide_border=true" width="48%" />
 </p>
 
----
-
-# 📈 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshkumar-mb&layout=compact&theme=radical&hide_border=true" />
-</p>
 
 ---
 
