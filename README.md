@@ -17,7 +17,7 @@
 <img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🔭 Working on **E-Procurement System, Works System & Web Apps**
-- 🌱 Learning **Advanced React & Scalable Backend Systems**
+- 🌱 Learning **Advanced AI/ML Models**
 - 💬 Ask me about **ASP.NET, Python, SQL, Web Development PHP CI3**
 - ⚡ I build **real-world solutions & admin dashboards**
 - 🎯 8+ years experienced **Full Stack Developer**
