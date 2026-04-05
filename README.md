@@ -16,11 +16,11 @@
 
 <img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🔭 Working on **CSC Digital Services & Web Apps**
+- 🔭 Working on **E-Procurement System, Works System & Web Apps**
 - 🌱 Learning **Advanced React & Scalable Backend Systems**
-- 💬 Ask me about **ASP.NET, Python, SQL, Web Development**
+- 💬 Ask me about **ASP.NET, Python, SQL, Web Development PHP CI3**
 - ⚡ I build **real-world solutions & admin dashboards**
-- 🎯 Goal: Become **Top Full Stack Developer**
+- 🎯 8+ years experienced **Full Stack Developer**
 
 ---
 
@@ -79,3 +79,4 @@ Python         ████████████░░░░░░ 75%
 React JS       ██████████░░░░░░░░ 70%
 MySQL/MSSQL    █████████████░░░░░ 80%
 HTML/CSS       ██████████████░░░░ 85%
+PHP CI3       ██████████████░░░░ 85%
