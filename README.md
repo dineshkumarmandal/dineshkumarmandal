@@ -38,7 +38,7 @@
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet" />
+  <img src="https://skillicons.dev/icons?i=dotnet, php, codeigniter" />
 </p>
 
 ### 🗄️ Database
