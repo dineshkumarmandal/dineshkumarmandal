@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dinesh Kumar Mandal</h1>
+<h1 align="center">I'm Dinesh Kumar Mandal</h1>
 
 <h3 align="center">🚀 Full Stack Developer | ASP.NET | Python | React JS</h3>
 
@@ -38,7 +38,7 @@
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet" />
+  <img src="https://skillicons.dev/icons?i=dotnet, php" />
 </p>
 
 ### 🗄️ Database
